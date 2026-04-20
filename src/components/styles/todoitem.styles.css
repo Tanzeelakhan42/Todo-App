@@ -1,0 +1,7 @@
+.todo-items {
+  background-color: orangered;
+}
+li {
+  display: flex;
+  gap: 20px;
+}
